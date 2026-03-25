@@ -110,8 +110,12 @@
 ## 📊 Competitive Programming  
 
 <p>
+<a href="https://leetcode.com/u/vivekverma20500/">
   <img src="https://img.shields.io/badge/LeetCode-150+%20Problems-orange?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="https://www.codechef.com/users/glow_pearl_52">
   <img src="https://img.shields.io/badge/CodeChef-1200+%20Rating-brown?style=for-the-badge&logo=codechef" />
+</a>
 </p>
 
 ---
