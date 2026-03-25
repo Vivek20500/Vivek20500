@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="20%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Vivek Verma</h1>
